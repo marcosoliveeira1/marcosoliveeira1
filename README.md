@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcos</h1>
 <h3 align="center">A fullstack developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://marcosoliveira.site/](https://marcosoliveira.site/)
+- 👨‍💻 All of my projects are available at [https://omarcos.me/](https://omarcos.me/)
 
 - 💬 Ask me about **php, nodejs, java, ts, js, react, nextjs**
 
